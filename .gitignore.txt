@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.ipynb_checkpoints/Selecionando_em_Data_Frames-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+virtual/
